@@ -1,40 +1,41 @@
-> ![Image](https://github.com/user-attachments/assets/00fff29f-74b1-400f-8f60-b730e07e1024)
+<img src="https://count.getloli.com/get/@DEMONICCA?theme=rule34" alt="visitor badge" />
 
-> **DESCRIPTION...**    
-> This module deactivated and deleted the dump produced by the Android system.
-<hr/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ILLUMI!" />
+</h1>
 
-> [!TIP]
-> 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [Dropbox OFF Next](https://t.me/modulkuntul)
-> 3. Reboot
-<hr/>
+<h3 align="center">A passionate software developer from the Dark Continent.</h3>
 
-> [!NOTE]
-> - Support Android 10-15
-> - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-<hr/>
+<p align="center">
+  <img src="https://github.com/DEMONICCA/DEMONICCA/blob/main/Logo.jpg?raw=true" alt="Logo" width="250"/>
+</p>
 
-> [!WARNING]
-> I will not take responsibility if a problem occurs.     
-> Not all roms are profitable, so be careful.
-<hr/>
+<h5 align="center"><i>This world is very dark, but in heaven there is no darkness.</i></h5>
 
-> [!CAUTION]
-> If the module I created causes a bootlop, it is at your own risk    
-> I have tested it on several devices below.
-<hr/>
+---
 
-> [!IMPORTANT]
-> Tested on several devices such as.     
-> Redmi Note 12 4G NFC (TOPAZ)     
-> Redmi Note 8 (GINKGO)     
-<hr/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEMONICCA/DEMONICCA/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEMONICCA/DEMONICCA/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DEMONICCA/DEMONICCA/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
->   
-> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
-> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
-> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<hr/>
+---
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=DEMONICCA&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DEMONICCA&count_private=true&theme=nightowl&border_radius=10" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONICCA&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://ko-fi.com/illumi666" target="_blank">
+    <img height="64" style="border:0;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at Ko-fi" />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
