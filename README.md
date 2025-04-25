@@ -1,8 +1,6 @@
-<img src="https://count.getloli.com/get/@DEMONICCA?theme=pure" alt="visitor badge" width="110"/>
+<img src="https://img.shields.io/badge/visitors-👁️%20999+-black?style=flat-square&logo=github&logoColor=white&labelColor=14141F&color=000000" alt="Visitors badge" width="120"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ILLUMI!" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=FF0066&center=true&vCenter=true&width=900&height=70&lines=DEMONICA;+😈" />
 
 <h3 align="center">A passionate software developer from the Dark Continent.</h3>
 
