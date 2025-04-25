@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/get/@DEMONICCA?theme=rule34" alt="visitor badge" />
+<img src="https://count.getloli.com/get/@DEMONICCA?theme=rule34" alt="visitor badge" width="120" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ILLUMI!" />
